@@ -1,8 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jesús Ojeda
 ===================================================================================================================================
 
-I am a software engineering student & software developer
+I am a software engineering student
 --------------------------------------------------------
+<p align="center">
+  <img src="Jojeda.png" alt="Banner de presentación" />
+</p>
+
 
 * 🌍  I'm based in Cancún, Mexico 🏖️☀️
 * ✉️  You can contact me at [ojedajesus232@gmail.com](mailto:ojedajesus232@gmail.com)
