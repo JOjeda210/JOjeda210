@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jesús Ojeda
 ===================================================================================================================================
 
-I am a software engineering student
+I am a software engineering student, backend Software developer
 --------------------------------------------------------
 <p align="center">
   <img src="Jojeda.png" alt="Banner de presentación" />
